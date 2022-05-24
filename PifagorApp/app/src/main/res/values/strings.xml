@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PifagorApp</string>
+    <string name="title">Find the value of hypotenuse \"C\"</string>
+    <string name="result_info">The value of \"C\":&#160;</string>
+    <string name="result">Count</string>
+    <string name="input_a">Enter the value of \"A\" side</string>
+    <string name="input_b">Enter the value of \"B\" side</string>
+</resources>
