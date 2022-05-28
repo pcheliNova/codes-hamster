@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AnimalsRV</string>
+    <string name="button">Next image</string>
+    <string name="title">Title</string>
+    <string name="done">Done</string>
+    <string name="description">Animal description</string>
+</resources>
