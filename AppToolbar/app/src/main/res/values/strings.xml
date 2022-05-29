@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppToolbar</string>
+    <string name="menu_name">Menu</string>
+    <string name="download_name">Download</string>
+    <string name="reboot_name">Reboot</string>
+    <string name="info_name">Info</string>
+</resources>

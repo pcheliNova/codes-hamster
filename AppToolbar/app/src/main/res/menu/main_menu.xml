@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="@string/menu_name"
+        android:id="@+id/menu"
+        android:icon="@drawable/menu_icon"
+        app:showAsAction="ifRoom"
+        android:orderInCategory="1"
+        />
+    <item
+        android:title="@string/download_name"
+        android:id="@+id/download"
+        android:icon="@drawable/download_icon"
+        app:showAsAction="ifRoom"
+        android:orderInCategory="2"
+        />
+    <item
+        android:title="@string/reboot_name"
+        android:id="@+id/reboot"
+        android:icon="@drawable/reboot_icon"
+        app:showAsAction="ifRoom"
+        android:orderInCategory="3"
+        />
+    <item
+        android:title="@string/info_name"
+        android:id="@+id/info"
+        android:icon="@drawable/info_icon"
+        app:showAsAction="ifRoom"
+        android:orderInCategory="4"
+        />
+
+</menu>
