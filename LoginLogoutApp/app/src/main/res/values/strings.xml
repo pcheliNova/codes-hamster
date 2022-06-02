@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LoginLogout App</string>
+    <string name="sign_in" translatable="false">Sign In</string>
+    <string name="sign_up" translatable="false">Sign Up</string>
+    <string name="avatar" translatable="false">Avatar</string>
+    <string name="login" translatable="false">Log In</string>
+    <string name="name" translatable="false">Имя</string>
+    <string name="surname" translatable="false">Фамилия</string>
+    <string name="fathername" translatable="false">Отчество</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="done" translatable="false">Done</string>
+
+
+
+</resources>
